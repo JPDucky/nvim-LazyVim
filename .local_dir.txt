@@ -1,0 +1,1 @@
+/home/palmerd/.local/share/nvim-LazyVim
